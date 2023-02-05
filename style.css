@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+
+nav a {
+   text-decoration:none;
+   padding: 30px; 
+   margin: 30px;
+}
+footer{
+    background: black;
+}
+footer p{
+    background: white;
+    margin: 10px;
+}
+.pon{
+    text-decoration: underline 5px;
+    color: black;
+}
+.pond{
+    text-decoration: underline 5px;
+    color: black;
+}
+.pong{
+    text-decoration: underline 5px;
+    color: black;
+}
+.nop{
+    border: solid black 2px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.ponf{
+    color:blue;
+    text-decoration: underline;
+}
+.qwe{
+    margin: 10px;
+    border-left: dotted black 10px;
+    padding: 5px;
+}
+.qwr{
+     margin: 10px;
+    border-left: dotted black 10px;
+    padding: 5px;
+}
+.qwt{
+     margin: 10px;
+    border-left: dotted black 10px;
+    padding: 5px;
+}
